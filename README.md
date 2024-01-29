@@ -17,20 +17,30 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
 
----
 
-🧑‍💻: About Me :
-- 🔭: I’m a web developer who loves to create beautiful and functional websites using the latest technologies. I have experience in HTML, CSS, JavaScript, and React.
 
-- 🌱: I am also exploring data science and IoT, as I believe they have the potential to transform the world with data-driven insights and smart solutions. I have some knowledge of Python Arduino, and Raspberry           Pi. I’m always eager to learn more and apply them to real-world problems.
-- ⚡: I solve problems on GeeksforGeeks and read tech articles in my free time.
+# 🧑‍💻 About Me
 
-- 📫: How to reach me: omkarshivam99@gmail.com
-  
+Hi there! I'm a web developer with a passion for creating beautiful and functional websites using the latest technologies. My skills include HTML, CSS, JavaScript, and React, and I enjoy crafting user-friendly interfaces and engaging user experiences.
+
+## 🔭 Current Focus
+
+I'm currently exploring the exciting fields of data science and IoT. I believe that data-driven insights and smart solutions have the potential to transform the world, and I'm eager to contribute to this transformative journey. I have some experience with Python, Arduino, and Raspberry Pi, and I'm always looking to expand my knowledge and apply it to real-world problems.
+
+## 🌱 Learning Journey
+
+I'm constantly learning and experimenting with new technologies. Whether it's diving into data analysis or building IoT projects, I enjoy pushing the boundaries of what's possible and discovering innovative solutions. I'm enthusiastic about learning and applying new skills to create impactful projects.
+
+## ⚡ Fun Fact
+
+In my free time, I like to solve coding problems on platforms like GeeksforGeeks and read tech articles to stay updated with the latest trends and developments in the tech industry.
+
+## 📫 Get in Touch
+
+Feel free to reach out to me at [omkarshivam99@gmail.com](mailto:omkarshivam99@gmail.com). I'm always open to collaborations, discussions, or just a friendly chat!
+
+
  ---
 💻:  Languages and Tools :
 <div>
