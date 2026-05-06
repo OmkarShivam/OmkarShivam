@@ -22,19 +22,19 @@
 
 # 🧑‍💻 About Me
 
-Hi there! I'm a web developer with a passion for creating beautiful and functional websites using the latest technologies. My skills include HTML, CSS, JavaScript, and React, and I enjoy crafting [...]
+Hi there! I'm a web developer with a passion for creating beautiful and functional websites using the latest technologies. My skills include HTML, CSS, JavaScript, and React, and I enjoy crafting user-friendly interfaces and engaging user experiences.
 
 ## 🔭 Current Focus
 
-I'm currently exploring the exciting fields of data science and IoT. I believe that data-driven insights and smart solutions have the potential to transform the world, and I'm eager to contribute [...]
+I'm currently exploring the exciting fields of data science and IoT. I believe that data-driven insights and smart solutions have the potential to transform the world, and I'm eager to contribute to this transformative journey. I have some experience with Python, Arduino, and Raspberry Pi, and I'm always looking to expand my knowledge and apply it to real-world problems.
 
 ## 🌱 Learning Journey
 
-I'm constantly learning and experimenting with new technologies. Whether it's diving into data analysis or building IoT projects, I enjoy pushing the boundaries of what's possible and discovering [...]
+I'm constantly learning and experimenting with new technologies. Whether it's diving into data analysis or building IoT projects, I enjoy pushing the boundaries of what's possible and discovering innovative solutions. I'm enthusiastic about learning and applying new skills to create impactful projects.
 
 ## ⚡ Fun Fact
 
-In my free time, I enjoy reading interesting tech facts. For example, did you know the first computer 'bug' was an actual bug? In 1947, engineers found a moth trapped in the Harvard Mark II comput[...]
+In my free time, I enjoy reading interesting tech facts. For example, did you know the first computer 'bug' was an actual bug? In 1947, engineers found a moth trapped in the Harvard Mark II computer, causing it to malfunction. They logged it as the 'first actual case of a bug being found,' which is how the term 'debugging' was born!
 
 ## 📫 Get in Touch
 
