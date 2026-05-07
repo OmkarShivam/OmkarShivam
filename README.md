@@ -22,7 +22,7 @@
 
 # 🧑‍💻 About Me
 
-Hi there! I'm a web developer with a passion for creating beautiful and functional websites using the latest technologies. My skills include HTML, CSS, JavaScript, and React, and I enjoy crafting user-friendly interfaces and engaging user experiences.
+I'm a software developer with 5 years of experience, specializing in building robust web applications for the banking sector. I'm currently working with Vue, TypeScript, PHP, and Laravel to develop secure and scalable solutions that meet the demands of modern financial institutions. I'm passionate about writing clean, maintainable code and delivering high-quality applications.
 
 ## 🔭 Current Focus
 
