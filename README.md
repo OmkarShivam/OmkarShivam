@@ -26,7 +26,7 @@ I'm a software developer with 5 years of experience, specializing in building ro
 
 ## 🔭 Current Focus
 
-I'm currently exploring the exciting fields of data science and IoT. I believe that data-driven insights and smart solutions have the potential to transform the world, and I'm eager to contribute to this transformative journey. I have some experience with Python, Arduino, and Raspberry Pi, and I'm always looking to expand my knowledge and apply it to real-world problems.
+Beyond banking applications, I'm actively pursuing advanced studies in data science and IoT technologies. I leverage my expertise in Python, Arduino, and Raspberry Pi to architect intelligent solutions that bridge the gap between software development and embedded systems. My focus is on translating complex data insights into actionable business intelligence while building IoT ecosystems that solve real-world challenges in innovative ways.
 
 ## 🌱 Learning Journey
 
